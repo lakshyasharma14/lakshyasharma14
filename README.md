@@ -1,10 +1,15 @@
 ## Hey 👋, I'm [Lakshya Sharma!](https://github.com/lakshyasharma14)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-sharma/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://bro-code.in/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.findyourtrip.in/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lakshya00796)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.findyourtrip.in/)
 
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://bro-code.in/)
+
+[![GitHub followers](https://img.shields.io/github/followers/lakshyasharma14?style=social)](https://github.com/lakshyasharma14)
+[![GitHub Org's stars](https://img.shields.io/github/stars/bro-code1411?style=social)](https://github.com/bro-code1411)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAbqAkaSXFIsWShtl51THQQ?style=social)](https://www.youtube.com/channel/UCAbqAkaSXFIsWShtl51THQQ)
+<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/lakshyasharma14)](https://github.com/lakshyasharma14) -->
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lakshyasharma14.lakshyasharma14&style=flat-square&color=0088cc)
 
 I'm a graduate in Computer Science 🎓 from Thapar University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems 👨🏻‍💻. I have 3 year of backend development and I'm currently exploring Web Development 🕸️.
