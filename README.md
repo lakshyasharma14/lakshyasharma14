@@ -3,8 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-sharma/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/lakshya00796)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.findyourtrip.in/)
-
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://bro-code.in/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.bro-code.in/)
 
 [![GitHub followers](https://img.shields.io/github/followers/lakshyasharma14?style=social)](https://github.com/lakshyasharma14)
 [![GitHub Org's stars](https://img.shields.io/github/stars/bro-code1411?style=social)](https://github.com/bro-code1411)
