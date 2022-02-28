@@ -41,6 +41,8 @@ Like My Work?
 
 ### Languages and Tools:
 
+- 🛠 &nbsp; I’m currently working with Java, Python, Node, GO, Reactjs, Nextjs <br /> Graphql, SQL, Javascript, etc.
+
 ### Projects and Dev Stuffs:
 
 Checkout my repositories 
